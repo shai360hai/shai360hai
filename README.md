@@ -14,13 +14,13 @@
 
 ### Languages and Tools:
 
-![Python](https://devicon.dev/icons/python/python-original.svg)
-![Flask](https://devicon.dev/icons/flask/flask-original.svg)
-![JavaScript](https://devicon.dev/icons/javascript/javascript-original.svg)
-![React](https://devicon.dev/icons/react/react-original.svg)
-![Git](https://devicon.dev/icons/git/git-original.svg)
-![GitHub](https://devicon.dev/icons/github/github-original.svg)
-![CSS](https://devicon.dev/icons/css3/css3-original.svg)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shai360hai&layout=compact" alt="Top Languages">
 

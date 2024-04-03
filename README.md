@@ -1,4 +1,4 @@
-### A passionate frontend developer from India
+### A passionate frontend developer from Israel
 
 ![Profile views](https://komarev.com/ghpvc/?username=shai360hai&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -10,7 +10,7 @@
 - 📫 How to reach me: [shai360hai@gmail.com](mailto:shai360hai@gmail.com)
 
 ### Connect with me:
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/shaisasonker)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="20" width="20">](https://linkedin.com/in/shaisasonker)
 
 ### Languages and Tools:
 <!-- Add icons for languages and tools -->

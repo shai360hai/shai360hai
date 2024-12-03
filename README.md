@@ -51,6 +51,7 @@
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/notepad%2B%2B.png" alt="C++ language" height="50" width="50" /> 
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/sublime.svg" alt="python" height="50" width="50" /> 
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/62487087dc4f4f5efee637addbc67a16dd374bf6/text%20editors/vscode.svg" alt="java" height="50" width="50" /> 
+</p>
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shai360hai&layout=compact" alt="Top Languages">
@@ -59,5 +60,4 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shai360hai" alt="GitHub Streak">
 
-</p>
 

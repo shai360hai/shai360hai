@@ -4,8 +4,6 @@
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shai360hai)
 
-- 🌱 I’m currently learning **FullStack Development Python**
-- 🤝 I’m looking for help with **Python**
 - 💬 Ask me about **React, Python**
 - 📫 How to reach me: [shai360hai@gmail.com](mailto:shai360hai@gmail.com)
 
@@ -58,6 +56,5 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shai360hai&show_icons=true" alt="GitHub Stats">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shai360hai" alt="GitHub Streak">
 
 

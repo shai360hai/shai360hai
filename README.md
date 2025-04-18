@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-A passionate FullStack developer from Israel<br>
+A passionate FullStack developer from Israel<br><br>
 ![Profile views](https://komarev.com/ghpvc/?username=shai360hai&label=Profile%20views&color=0e75b6&style=flat)
 <br><br>![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shai360hai)
 <br><br>💬 Ask me about React, Python

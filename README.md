@@ -30,4 +30,3 @@ A passionate FullStack developer from Israel<br><br>
 ---
 [![](https://visitcount.itsvg.in/api?id=shai360hai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
